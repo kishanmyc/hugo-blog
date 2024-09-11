@@ -1,4 +1,4 @@
 baseURL = "https://kishanmyc.github.io/hugo-blog/"
 languageCode = 'en-us'
-title = 'Kishan'
+title = 'My New Hugo Site'
 theme = "ananke"
